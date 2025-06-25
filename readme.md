@@ -9,6 +9,6 @@ KimPim-Hackathon-Website von:
 
 [Kurze Beschreibung der Website]
 
-[http://im24ws.rheinmain-interaktiv.de/X](Ansicht auf dem Test-Server)
+[http://im25ss.rheinmain-interaktiv.de/X](Ansicht auf dem Test-Server)
 
-[Link auf XD-Design] (XD-Design)
+[Link auf Figma-Design] (Figma-Design)
