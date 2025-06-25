@@ -15,5 +15,5 @@ jobs:
       with:
         server: w01c627a.kasserver.com
         server-dir: X/
-        username: f016e732
+        username: f017649b
         password: ${{ secrets.FTP_PWD }}
